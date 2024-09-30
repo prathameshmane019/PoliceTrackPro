@@ -17,7 +17,7 @@ const HomePage = () => {
       <header className="text-center mb-12">
         <h1 className="text-4xl font-bold mb-4">Welcome to PoliceTrack Pro</h1>
         <p className="text-xl text-gray-600">
-          Streamline your police department's hardware inventory management
+          Streamline your police department&apos;s hardware inventory management
         </p>
       </header>
 
